@@ -35,14 +35,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boi123212321/porn-vault.git"
+    "url": "git+https://github.com/black-da-bull/pv-dev.git"
   },
-  "author": "boi123212321",
+  "author": "black-da-bull",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boi123212321/porn-vault/issues"
+    "url": "https://github.com/black-da-bull/pv-dev/issues"
   },
-  "homepage": "https://github.com/boi123212321/porn-vault#readme",
+  "homepage": "https://github.com/black-da-bull/pv-dev#readme",
   "dependencies": {
     "@apollo/client": "3.3.0",
     "apollo-server-express": "^2.13.1",

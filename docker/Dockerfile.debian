@@ -11,7 +11,7 @@ RUN cd /app && \
     npm run install:app && \
     npm run build:generic
 
-FROM ghcr.io/linuxserver/baseimage-ubuntu:focal
+FROM ghcr.io/linuxserver/baseimage-ubuntu:focal@sha256:b2164eb5d890a44b6b924d005c437540f8d9e0c40c913062485d6002572b85d5
 
 RUN apt-get update && \
     apt-get -y install ca-certificates ffmpeg imagemagick && \

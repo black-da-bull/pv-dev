@@ -95,7 +95,7 @@
     "@types/node-fetch": "^2.5.7",
     "@types/pug": "^2.0.4",
     "@types/semver": "^7.3.4",
-    "@types/sinon": "^10.0.0",
+    "@types/sinon": "^17.0.3",
     "@types/tiny-async-pool": "^1.0.0",
     "@types/yargs": "^16.0.0",
     "@typescript-eslint/eslint-plugin": "^4.29.1",
@@ -120,7 +120,7 @@
     "nyc": "^15.1.0",
     "pkg": "^4.4.9",
     "prettier": "^2.3.1",
-    "sinon": "^11.1.0"
+    "sinon": "^17.0.1"
   },
   "nodemonConfig": {
     "ignore": [
